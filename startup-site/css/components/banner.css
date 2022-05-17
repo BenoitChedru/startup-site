@@ -1,0 +1,27 @@
+.banner{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 40%), url(../../images/banner.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	filter: brightnes(2);
+}
+
+.banner h1{
+	font-size: 50px;
+	color: white;
+}
+
+.banner h2{
+	font-size: 25px;
+	font-weight: lighter;
+}
+
+#bannertext{
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
+}
+
+#catch{
+	margin-bottom: 25px;
+	width: 400px;
+}
